@@ -5,6 +5,10 @@ Latest Release
 Change Log
 ==========
 
+V1.3.2 (Build 20190823)
+-----------------------
+* In Location Activity, added a [New Charge Log] function. This function is being tested at present.
+
 V1.3.1 (Build 20190821)
 -----------------------
 * In Login Activity, added icons to the left of User Name and Password text boxes
