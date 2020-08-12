@@ -5,6 +5,12 @@ Latest Release
 Change Log
 ==========
 
+V1.3.3 (Build 20200812)
+-----------------------
+* Updated data interfaces according to server.
+* Removed the [New Charge Log] function that is no longer used.
+* Fixed: When the user manages only a few vehicles, in home page, the online/offline number in the pie chart will be displayed as decimal pattern (not integer).
+
 V1.3.2 (Build 20190823)
 -----------------------
 * In Location Activity, added a [New Charge Log] function. This function is being tested at present.
